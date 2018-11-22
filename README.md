@@ -1,4 +1,4 @@
-# octonews
+# octonews app
 
 ## Project setup
 ```
