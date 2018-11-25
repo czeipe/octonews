@@ -12,6 +12,7 @@
   </div>
 </template>
 
+
 <script>
 import axios from 'axios';
 import debounce from 'lodash.debounce';
@@ -56,7 +57,6 @@ export default {
     label{
       font-family: Monsterrat sans-serif;
     }
-
     input{
       height:30px;
       border:0;
